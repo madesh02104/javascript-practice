@@ -6,3 +6,6 @@ All the projects in this particuler repo are not completely built from scratch.I
 If you wanna see my own projects on js checkout the javascript-projects repo.
 
 Thank You :)
+
+
+View live preview of all projects in this repo at : https://madesh02104.github.io/javascript-practice/*Replace with project name here*
